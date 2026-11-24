@@ -44,4 +44,8 @@ The KaadzOS name and masthead identify the project. You may use them to refer to
 
 The source of truth for the palette and generated artwork is [`theme/palette`](https://github.com/KaadzOS/KaadzOS/blob/main/theme/palette) and [`theme/generate.sh`](https://github.com/KaadzOS/KaadzOS/blob/main/theme/generate.sh) in the main repository. This repository is a published snapshot for people who need the assets without cloning the full build tree.
 
+## Licence
+
+The published assets and documentation in this repository are MIT-licensed; see [`LICENSE`](LICENSE). Inter Tight remains under the SIL Open Font License, and the KaadzOS name and masthead remain project identifiers as described above.
+
 <sub>Debian is a registered trademark of Software in the Public Interest, Inc. KaadzOS is an independent project.</sub>
