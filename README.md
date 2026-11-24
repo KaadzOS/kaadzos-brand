@@ -2,6 +2,22 @@
   <img src="https://raw.githubusercontent.com/KaadzOS/.github/main/assets/kaadzoslogo.png" alt="KaadzOS" width="100%">
 </div>
 
+<p align="center">
+  <sub>VISUAL IDENTITY &nbsp;·&nbsp; AMOLED PALETTE &nbsp;·&nbsp; INTER TIGHT</sub>
+</p>
+
+<p align="center">
+  <strong>The look is the argument.</strong><br>
+  True black, white type, one accent. No gradients, no apologies.
+</p>
+
+<p align="center">
+  <a href="https://kaadzos.pages.dev">Website</a> &nbsp;·&nbsp;
+  <a href="https://kaadzos.pages.dev/docs/">Manual</a> &nbsp;·&nbsp;
+  <a href="https://github.com/KaadzOS/KaadzOS/blob/main/theme/palette">Palette source</a> &nbsp;·&nbsp;
+  <a href="https://github.com/KaadzOS/KaadzOS/blob/main/theme/generate.sh">Generator</a>
+</p>
+
 ## KaadzOS brand kit
 
 The public visual identity of KaadzOS: a true-black AMOLED canvas, white type, a white accent, and neutral near-black surfaces. This repository is a published snapshot for wallpapers, badges and downstream references.
